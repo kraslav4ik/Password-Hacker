@@ -1,2 +1,2 @@
-# Password-Hacker-Hyper-Skill
+# Password-Hacker-HyperSkill
 Complited hyperskill project "Password Hacker"
