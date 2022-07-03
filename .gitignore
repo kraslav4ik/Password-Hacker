@@ -1,9 +1,3 @@
-Catching exception
-Establishing a connection
-Simple brute force
-Smarter, dictionary-based brute force
-Time-based vulnerability
-lesson-info.yaml
 .idea
 venv
 /task/hacking/__pycache__
