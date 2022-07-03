@@ -3,6 +3,8 @@ Completed Hyperskill project Password Hacker
 
 https://hyperskill.org/projects/80?track=2
 
+Python 3.8
+
 Launch from: "./Password Hacker"
 
 Launch the "server.py" first.
