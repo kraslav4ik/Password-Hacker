@@ -3,9 +3,11 @@ Completed Hyperskill project Password Hacker
 
 https://hyperskill.org/projects/80?track=2
 
-Launch from: "Password Hacker/task"
+Launch from: "./Password Hacker"
 
 Launch the "server.py" first.
+
+Launch tests from: "./Password Hacker"
 
 Project based on "hacking" the server using different variations of logins and passwords from txt files(using server's time vulnerability(stage 5)).
 
